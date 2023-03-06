@@ -1,0 +1,16 @@
+{
+  "name": "falc0shka/backend",
+  "authors": [
+      {
+          "name": "falc0shka",
+          "email": "falc0shka@gmail.com"
+      }
+  ],
+  "require": {
+      "slim/slim": "4.*",
+      "slim/psr7": "^1.6",
+      "slim/http": "^0.4.0",
+      "amocrm/amocrm-api-library": "^0.13.0",
+      "symfony/dotenv": "^6.2"
+  }
+}
